@@ -53,3 +53,7 @@ npm start
 ---
 
 💡 The frontend will be available at `http://localhost:3000` and the backend at `http://localhost:5009`
+
+
+Link to the loom video
+https://www.loom.com/share/5bf61e3e36b74dd89ac4d5cb037abad4?sid=b10c913a-9c09-4055-b269-a295166dbf1c
