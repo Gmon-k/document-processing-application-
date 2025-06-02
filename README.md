@@ -57,3 +57,7 @@ npm start
 
 Link to the loom video
 https://www.loom.com/share/5bf61e3e36b74dd89ac4d5cb037abad4?sid=b10c913a-9c09-4055-b269-a295166dbf1c
+
+screenshot of the application
+![image](https://github.com/user-attachments/assets/729bd824-746f-4621-9e92-4098601cbda5)
+
